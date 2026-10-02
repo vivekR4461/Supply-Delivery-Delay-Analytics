@@ -39,5 +39,11 @@ Supply chain and operations teams require real-time visibility into shipping per
 * `Supply_Chain_Delays.pbix`: The final Power BI dashboard file.
 * `Supply_Chain_Dashboard.png`: A high-resolution preview of the final visualizations.
 
+## Screenshots
+<img width="1858" height="866" alt="codeSS1" src="https://github.com/user-attachments/assets/4e09a86d-f868-482d-8d69-a6ec809770f8" />
+<img width="1845" height="855" alt="codeSS2" src="https://github.com/user-attachments/assets/5537395b-05a8-4e02-96ad-67dd802ebb86" />
+<img width="1850" height="850" alt="codeSS3" src="https://github.com/user-attachments/assets/5176aa1d-eb0b-43d5-b285-37bf7b583972" />
+<img width="1279" height="713" alt="Supply_Chain_Dashboard" src="https://github.com/user-attachments/assets/587dadea-9b81-441a-8f44-61134b3d0a05" />
+
 ---
 *Author: Vivek Rajput* 
